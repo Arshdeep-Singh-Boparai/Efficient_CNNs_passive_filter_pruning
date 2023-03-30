@@ -1,4 +1,4 @@
-# Operator_norm_passive_Filter_Pruning (ongoing, links will be upadted later...)
+# Efficient CNNs using passive Filter Pruning (ongoing)
 
 # Python scripts 
 The repository contains following scripts,
