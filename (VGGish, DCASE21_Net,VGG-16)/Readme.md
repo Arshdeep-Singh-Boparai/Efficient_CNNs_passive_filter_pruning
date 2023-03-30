@@ -14,7 +14,7 @@ The repository contains following scripts,
 (a) "importance score":  Sorted indexes per convolutional layer as obtained using the proposed pruning, l_1-norm based pruning and geometrical median based pruning methods for networks, (i) VGGish_Net, (ii) DCASE21_Net and (iii) VGG-16 network.
 
 
-# Links: Datasets (numpy format features), unpruned models and pruned model (Table 1) obtained using the proposed method,
+ Links: Datasets (numpy format features), unpruned models and pruned model obtained using the proposed method,
 Link:  https://doi.org/10.5281/zenodo.7119930
 
 The above link contains three folders corresponding to the following networks,
